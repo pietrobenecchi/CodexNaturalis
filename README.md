@@ -7,7 +7,7 @@
 - Daniel Carrozzo
 - Pietro Benecchi
 
-## Features implementate
+## Features implemented
 
 >Per vedere la lista completa dei requisiti, aprire il file `requirements.pdf`.
 
