@@ -1,6 +1,6 @@
-# Ingegneria del Software 2024 - Prova Finale
+# Software engineering 2024 project
 
-## Membri del gruppo
+## Group Members
 
 - Pietro Agnoli 
 - Arturo Amoretti
@@ -11,12 +11,12 @@
 
 >Per vedere la lista completa dei requisiti, aprire il file `requirements.pdf`.
 
-- Regole complete
+- Full rules
 - TUI
 - GUI
 - RMI
 - Socket
-- Persistenza
+- Persistence 
 - Chat
 
 ## How to build
